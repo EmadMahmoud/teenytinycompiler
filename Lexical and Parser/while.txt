@@ -1,0 +1,9 @@
+# Repeat until b < a
+
+LET b = 5
+LET a = 2
+WHILE b < a REPEAT
+
+    LET b = b - 1
+
+ENDWHILE
